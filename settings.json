@@ -1,0 +1,23 @@
+{
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "workbench.colorTheme": "Sublime Material Theme - Dark",
+    "editor.fontSize": 13,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.lineHeight": 21,
+    "editor.letterSpacing": 0.2,
+    "workbench.activityBar.location": "top", 
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "terminal.integrated.shellIntegration.enabled": false,
+    "terminal.integrated.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "workbench.iconTheme": "eq-material-theme-icons-light",
+    "files.watcherExclude": {
+        "**/vendor/*/**": true,
+        "**/node_modules/*/**": true,
+        "**/.git/*/**": true,
+    }
+}
