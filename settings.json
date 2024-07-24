@@ -18,6 +18,8 @@
     "files.watcherExclude": {
         "**/vendor/*/**": true,
         "**/node_modules/*/**": true,
-        "**/.git/*/**": true,
-    }
+        "**/.git/*/**": true
+    },
+    "workbench.productIconTheme": "material-product-icons",
+    "git.autorefresh": false
 }
